@@ -7,3 +7,11 @@ Career Notes - Vinay Hegde
    :maxdepth: 4
    :caption: Contents:
    :hidden:
+
+   Company-Information
+   About-Myself
+   Resume-Writing-Tips
+   Cover-Letter-Writing-Tips
+   Job-Listings
+   Recruiters
+   Interview-Process
