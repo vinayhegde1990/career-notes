@@ -10,8 +10,6 @@ Contacting Recruiters via LinkedIn
 - http://www.avidcareerist.com/2013/07/17/how-to-find-recruiters-on-linkedin-infographic/
 
 
-- **Sending a cover letter when it can't be attached**
-
 - https://www.thebalance.com/should-you-contact-a-hiring-manager-on-linkedin-4021244
 
 - https://theundercoverrecruiter.com/how-not-to-contact-recruiters-on-linkedin-10-ways/
