@@ -15,3 +15,5 @@ Career Notes - Vinay Hegde
    Job-Listings
    Recruiters
    Interview-Process
+   Email-Templates
+   Expat-Ready-Reckoner
