@@ -6,9 +6,11 @@ Welcome to Career Notes - A collection of online resources I've gathered over th
 - Constructing an About Myself across job sites.
 - Simple tricks to enhance our Resumes | Cover Letters
 - Sites with Job Listings across the globe.
-- Tackling the Interview Process
+- Tackling the Interview Process.
 
-..and many more.
+.. and many more.
+
+You can read the complete documentation [here](https://rebrand.ly/VH-career)
 
 <h2> Tools Used: </h2>
 <h3> reStructuredText (RST): </h3>

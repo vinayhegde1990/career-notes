@@ -17,13 +17,6 @@ Welcome to Career Notes - A collection of online resources I've gathered over th
 ... and many more.
 
 
-How-To-Use
-------------------------
-- Please click on any link on the Left Hand side of this webpage to read more on it such as **Utilities**, **CPU**, **Monitoring** among others.
-- Once you do so, you will find subsections (*varies upon topics*) that can be expanded by clicking on the + icon to read them.
-- You can also enter your *keywords* in the **Search Box** present in the top Left Corner of this webpage to return relevant results.
-
-
 
 Tech Stack:
 ---------------------
