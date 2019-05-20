@@ -49,3 +49,12 @@ Take-Home Challenges
 
 - https://workplace.stackexchange.com/questions/61478/a-programming-task-is-scaring-off-candidates-should-we-ditch-it
 
+- https://angel.co/blog/engineers-hate-your-take-home-project-heres-how-to-fix-it
+
+
+###########################
+Technical Career Growth
+###########################
+- https://jvns.ca/blog/2018/09/30/some-possible-career-goals/
+
+- https://jvns.ca/blog/senior-engineer/
