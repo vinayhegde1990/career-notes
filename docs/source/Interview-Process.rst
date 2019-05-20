@@ -58,3 +58,5 @@ Technical Career Growth
 - https://jvns.ca/blog/2018/09/30/some-possible-career-goals/
 
 - https://jvns.ca/blog/senior-engineer/
+
+- https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d
