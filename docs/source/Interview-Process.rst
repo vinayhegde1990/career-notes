@@ -62,3 +62,18 @@ Technical Career Growth
 - https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d
 
 - https://github.com/kamranahmedse/developer-roadmap
+
+Doing 1-on-1
+#################
+.. image::  ../source/images/tech-growth-1-on-1.png
+    :width: 390px
+    :align: center
+    :height: 512px
+	
+
+Employee Manager Feedback
+###########################
+.. image::  ../source/images/tech-growth-employee-manager-feedback.png
+    :width: 1110px
+    :align: center
+    :height: 1504px
