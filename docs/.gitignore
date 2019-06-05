@@ -16,6 +16,7 @@ _static
 *.egg-info
 *~
 *#
+*.bat
 
 # Logs and database files to be ignored
 *.log
