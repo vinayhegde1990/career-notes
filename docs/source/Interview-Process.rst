@@ -63,6 +63,8 @@ Technical Career Growth
 
 - https://github.com/kamranahmedse/developer-roadmap
 
+- https://blog.alicegoldfuss.com/how-to-get-into-sre/
+
 Doing 1-on-1
 #################
 .. image::  ../source/images/tech-growth-1-on-1.png
