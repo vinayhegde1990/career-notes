@@ -13,6 +13,8 @@ Telephonic | Skype Interview
 
 - https://workplace.stackexchange.com/questions/78192/company-asks-for-a-scanned-copy-of-my-passport
 
+- https://www.jobvite.com/candidate-engagement/11-red-flags-to-watch-for-during-an-interview/
+
 
 ###########################
 Questions as a Candidate
