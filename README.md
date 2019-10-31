@@ -32,6 +32,5 @@ You can read the complete documentation [here](https://rebrand.ly/VH-career)
 
 <h2> Please note: </h2>
 
-- This is still a work in progress. Feedback, suggestions and queries are always appreciated!
-- Kindly read the guidelines on how to share your [Contributions](contributing.md) to this project.
-- Feel free to contact me directly via [email](mailto:vinay.hegde30@gmail.com) or [WhatsApp](https://api.whatsapp.com/send?phone=919967875270) on the above
+- Due to dynamic content for all topics in here, this will forever be a work in progress. Feedback, suggestions and queries are always appreciated!
+- For contributions, please read the guidelines on how to share your [Contributions](contributing.md) to this project.
