@@ -22,6 +22,16 @@ The Basics
 - http://www.youthcentral.vic.gov.au/jobs-careers/applying-for-jobs/how-to-write-a-cover-letter
 
 
+########################
+Advanced Cover Letters
+########################
+- https://novoresume.com/career-blog/how-to-start-a-cover-letter
+
+- https://novoresume.com/career-blog/how-long-should-a-cover-letter-be
+
+- https://novoresume.com/cover-letter-templates
+
+
 ################
 Useful Snippets
 ################
