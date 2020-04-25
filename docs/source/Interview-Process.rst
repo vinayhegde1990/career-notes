@@ -39,6 +39,8 @@ Questions as a Candidate
 
 - https://kostasbariotis.com/interviewer-vs-interviewee/
 
+- https://jvns.ca/blog/compensation-questions
+
 
 ###########################
 Take-Home Challenges
