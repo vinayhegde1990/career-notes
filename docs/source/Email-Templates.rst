@@ -2,7 +2,7 @@
 Email Templates
 ******************************
 
-*Some useful links to reference Email Snippets for various use cases*
+*Some useful links containing Email Snippets for various use cases*
 
 ###############################
 Dealing with Recruiter Outreach
@@ -31,15 +31,15 @@ Follow-Up Emails
 ######################
 - https://www.hubspot.com/sales/follow-up-email-after-interview
    
-- http://jonathanmilligan.com/4-killer-follow-up-emails-when-youve-heard-nothing-after-the-interview/
+- http://jonathanmilligan.com/4-killer-follow-up-emails-when-youve-heard-nothing-after-the-interview
 
 
 ###############################
-Withdrawing sent applications
+Withdrawing Sent Applications
 ###############################
 - https://www.thebalance.com/how-to-withdraw-from-consideration-for-a-job-2061402
    
-- https://content.wisestep.com/withdraw-job-application-best-guide/
+- https://content.wisestep.com/withdraw-job-application-best-guide
 
 
 ###############################
@@ -59,15 +59,15 @@ Accept OR Decline a Job Offer
 
 - https://www.themuse.com/advice/how-to-gracefully-turn-down-a-job-offer
 
-- https://www.forbes.com/sites/jacquelynsmith/2012/08/13/how-to-turn-down-a-job-offer/
+- https://www.forbes.com/sites/jacquelynsmith/2012/08/13/how-to-turn-down-a-job-offer
 
-- https://www.careertoolbelt.com/13-signs-you-should-turn-down-a-job-offer/
+- https://www.careertoolbelt.com/13-signs-you-should-turn-down-a-job-offer
 
-- https://content.wisestep.com/how-to-get-a-job-offer-back-after-declining-it-top-tips/
+- https://content.wisestep.com/how-to-get-a-job-offer-back-after-declining-it-top-tips
 
 
 ####################################
-Respond to a failed job interview
+Re-apply Post a Failed Interview
 ####################################
 - https://www.thebalance.com/what-to-do-if-you-ve-blown-a-job-interview-2061103
    
@@ -81,7 +81,7 @@ Salary Negotiation
 
 - https://www.lewis-lin.com/blog/2015/5/6/31-killer-salary-negotiation-scripts
 
-- http://blogs.wsj.com/indiarealtime/2010/10/08/negotiating-a-higher-salary-takes-work/
+- http://blogs.wsj.com/indiarealtime/2010/10/08/negotiating-a-higher-salary-takes-work
    
 - https://biginterview.com/blog/2015/10/salary-expectations.html
   
@@ -91,7 +91,7 @@ Salary Negotiation
 
 - https://workplace.stackexchange.com/questions/59777/quoting-correct-salary-expectations-for-jobs-in-foreign-countries
    
-- https://fearlesssalarynegotiation.com/the-dreaded-salary-question/
+- https://fearlesssalarynegotiation.com/the-dreaded-salary-question
 
 
 **Answering salary expectations via E-Mail / LinkedIn before, after or during interview**
@@ -99,7 +99,7 @@ Salary Negotiation
 .. code-block:: Python
    :linenos:
 
-   I'm more excited to contribute to <organization> in the role of a <exact-role> and in all my experience and research, <figure-via-glassdoor-payscale> seems to be market compensation for roles similiar to this.
+   I'm more excited to contribute to <organization> in the <exact-role> and in all my experience and research, <figure-via-glassdoor-payscale> seems to be market compensation for roles similiar to this.
 
    I'm more interested in making this move to be a step forward for me in terms of both responsibility and compensation and I’m confident that you’re offering a salary that’s competitive in the current market.
 
