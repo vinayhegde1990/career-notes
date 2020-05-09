@@ -2,25 +2,25 @@
 Recruiters
 ********************
 
-*Some useful links to cover the process of connecting with recruiters*
+*Some useful links to help in connecting with recruiters*
 
 #################################################
 Contacting Recruiters via LinkedIn
 #################################################
-- http://www.avidcareerist.com/2013/07/17/how-to-find-recruiters-on-linkedin-infographic/
-
+- http://www.avidcareerist.com/2013/07/17/how-to-find-recruiters-on-linkedin-infographic
 
 - https://www.thebalance.com/should-you-contact-a-hiring-manager-on-linkedin-4021244
 
-- https://theundercoverrecruiter.com/how-not-to-contact-recruiters-on-linkedin-10-ways/
+- https://theundercoverrecruiter.com/how-not-to-contact-recruiters-on-linkedin-10-ways
    
-- https://www.linkedin.com/pulse/faq-how-reapply-after-being-turned-down-job-lisa/
+- https://www.linkedin.com/pulse/faq-how-reapply-after-being-turned-down-job-lisa
    
-- https://www.everydayinterviewtips.com/the-best-way-to-contact-a-recruiter-on-linkedin/
+- https://www.everydayinterviewtips.com/the-best-way-to-contact-a-recruiter-on-linkedin
 
-- http://college.usatoday.com/2015/04/01/10-templates-thatll-make-people-want-to-accept-your-linkedin-invitations/
+- http://college.usatoday.com/2015/04/01/10-templates-thatll-make-people-want-to-accept-your-linkedin-invitations
 
 - https://www.themuse.com/advice/5-rules-for-asking-your-linkedin-connections-for-help
+     
 
 
 - **Use the below keywords to find Company Recruiters on LinkedIn**
@@ -41,9 +41,9 @@ Contacting Recruiters via LinkedIn
    
    Hi <name-of-recruiter>
 
-   Good <time-of-the-day>! I hope that you are doing well.
+   Good Morning! I hope that you are doing well.
 
-   I see you are responsible for all <needs> over at <company>.  I found your contact information from LinkedIn so I thought to reach out to you directly.
+   I see you are responsible for all <functions> over at <company>.  I found your contact information from LinkedIn so I thought to reach out to you directly.
 
    Currently I'm seeking new opportunities as a <exact-role> across <location> so I'd love an opportunity to connect with you for roles that may be a good fit.
 
