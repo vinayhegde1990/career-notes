@@ -2,12 +2,12 @@
 Resume Writing Tips
 **********************************
 
-*Some useful links to cover the concepts of writing effective resumes*
+*Some useful links to help write effective resumes*
 
 ##########
 The Basics
 ##########
-- https://bhilburn.org/creating-an-awesome-resume/
+- https://bhilburn.org/creating-an-awesome-resume
 
 - https://www.forbes.com/sites/ashleystahl/2016/02/01/what-to-include-on-your-resume-and-what-you-can-ditch/
    
@@ -32,6 +32,8 @@ Certifications on Resume
 
 - https://workplace.stackexchange.com/questions/60125/including-in-progress-digital-coursework-on-a-resume
 
+- https://www.hiration.com/blog/certifications-on-resume
+
 
 ######################
 Explaining Career Gaps
@@ -46,5 +48,5 @@ Explaining Career Gaps
 ###############
 Visual Resume
 ###############
-- https://geekflare.com/free-visual-resume-to-impress/
+- https://geekflare.com/free-visual-resume-to-impress
 

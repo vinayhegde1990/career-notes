@@ -13,7 +13,7 @@ Telephonic | Skype Interview
 
 - https://workplace.stackexchange.com/questions/78192/company-asks-for-a-scanned-copy-of-my-passport
 
-- https://www.jobvite.com/candidate-engagement/11-red-flags-to-watch-for-during-an-interview/
+- https://www.jobvite.com/candidate-engagement/11-red-flags-to-watch-for-during-an-interview
 
 
 ###########################
@@ -21,7 +21,7 @@ Questions as a Candidate
 ###########################
 - https://www.themuse.com/advice/51-interview-questions-you-should-be-asking
    
-- https://relocateme.eu/blog/how-to-successfully-pass-an-interview-at-a-software-product-company/
+- https://relocateme.eu/blog/how-to-successfully-pass-an-interview-at-a-software-product-company
    
 - https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po
    
@@ -37,7 +37,7 @@ Questions as a Candidate
 
 - http://questionsforinterviewer.com/questions-to-ask-interviewer
 
-- https://kostasbariotis.com/interviewer-vs-interviewee/
+- https://kostasbariotis.com/interviewer-vs-interviewee
 
 - https://jvns.ca/blog/compensation-questions
 
@@ -59,15 +59,15 @@ Take-Home Challenges
 ###########################
 Technical Career Growth
 ###########################
-- https://jvns.ca/blog/2018/09/30/some-possible-career-goals/
+- https://jvns.ca/blog/2018/09/30/some-possible-career-goals
 
-- https://jvns.ca/blog/senior-engineer/
+- https://jvns.ca/blog/senior-engineer
 
 - https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d
 
 - https://github.com/kamranahmedse/developer-roadmap
 
-- https://blog.alicegoldfuss.com/how-to-get-into-sre/
+- https://blog.alicegoldfuss.com/how-to-get-into-sre
 
 Doing 1-on-1
 #################

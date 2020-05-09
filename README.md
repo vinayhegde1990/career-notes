@@ -1,14 +1,18 @@
 <h1> Overview </h1>
 
-Welcome to Career Notes - A collection of online resources I've gathered over the years across categories such as:
+Welcome to my notes on various topics related to a Professional Career covering categories like:
 
-- Finding Information on Companies before, during and after an interview process.
-- Constructing an About Myself across job sites.
-- Simple tricks to enhance our Resumes | Cover Letters
-- Sites with Job Listings across the globe.
-- Tackling the Interview Process.
+1. Finding Information on Companies before, during and after an interview process.
 
-.. and many more.
+2. Constructing an About Myself across job sites.
+
+3. Simple tricks to enhance our Resumes | Cover Letters
+   
+4. Sites with Job Listings across the globe.
+
+5. Tackling the Interview Process
+
+... and many more.
 
 You can read the complete documentation [here](https://rebrand.ly/VH-career)
 
@@ -27,7 +31,7 @@ You can read the complete documentation [here](https://rebrand.ly/VH-career)
 
 <h3> ReadTheDocs: </h3> 
 
-- Hosting my documentation along with many others. They’ve an excellent [document](http://docs.readthedocs.io/en/latest/getting_started.html) to help you get up and running in no time.
+- Hosting my documentation along with many others.  Refer this excellent [document](http://docs.readthedocs.io/en/latest/getting_started.html) to help you get up and running in no time.
 
 
 <h2> Please note: </h2>

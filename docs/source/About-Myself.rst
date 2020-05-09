@@ -11,7 +11,7 @@ The Basics
 
 - https://zety.com/blog/tell-me-about-yourself
 
-- https://www.themuse.com/advice/a-simple-formula-for-answering-tell-me-about-yourself/
+- https://www.themuse.com/advice/a-simple-formula-for-answering-tell-me-about-yourself
 
 - https://www.thebalancecareers.com/tell-me-about-yourself-job-interview-question-2060956
 
@@ -38,8 +38,8 @@ How did you hear about this job
 .. code-block:: Python
    :linenos:
    
-   Not only are you a pioneer in the <industry> with strong financials and a great business model, but I've also seen on your Facebook page that users of your platform are hugely enthusiastic. 
+   Not only are you innovating in the <segment-or-industry> with your product and a great business model, but I've also seen on your <social-media-presence> that customers of your platform are hugely enthusiastic. 
 
-   Therefore, I'd would love an opportunity to use my experience in helping <organization> grow onto an even bigger user-base by leveraging my expertise to scale your infrastructure while simultaneously keeping it reliable at all times. 
+   Hence, I'd would be excited about an opportunity to use my experience in helping <organization> grow onto an even bigger user-base by leveraging my expertise to <some-of-your-key-skills>.
 
-   Since you are out to disrupt the global scenario with your unique approach to deliver <based content>, I believe our mutual association would truly be symbiotic.
+   As I'm constantly striving to deliver excellence similar to your efforts, I believe our mutual association would truly be symbiotic.
