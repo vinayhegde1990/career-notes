@@ -2,7 +2,7 @@
 CoverLetter Writing Tips
 **********************************
 
-*Some useful links to cover the basics of writing succinct cover letters*
+*Some useful links to help draft effective cover letters*
 
 ##########
 The Basics
@@ -15,7 +15,7 @@ The Basics
 
 - https://www.thebalance.com/email-cover-letter-examples-and-formats-2060423
    
-- https://www.zippia.com/advice/30-cover-letter-tips/
+- https://www.zippia.com/advice/30-cover-letter-tips
    
 - https://www.thebalance.com/what-to-include-in-a-cover-letter-for-a-job-2060315
    
