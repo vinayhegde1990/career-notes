@@ -63,6 +63,10 @@ Technical Career Growth
 
 - https://jvns.ca/blog/senior-engineer
 
+- https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3
+
+- https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c
+
 - https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d
 
 - https://github.com/kamranahmedse/developer-roadmap
