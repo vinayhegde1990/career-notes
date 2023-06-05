@@ -7,7 +7,7 @@ Recruiters
 #################################################
 Contacting Recruiters via LinkedIn
 #################################################
-- http://www.avidcareerist.com/2013/07/17/how-to-find-recruiters-on-linkedin-infographic
+- https://www.avidcareerist.com/2013/07/17/how-to-find-recruiters-on-linkedin-infographic
 
 - https://www.thebalance.com/should-you-contact-a-hiring-manager-on-linkedin-4021244
 
@@ -17,7 +17,7 @@ Contacting Recruiters via LinkedIn
    
 - https://www.everydayinterviewtips.com/the-best-way-to-contact-a-recruiter-on-linkedin
 
-- http://college.usatoday.com/2015/04/01/10-templates-thatll-make-people-want-to-accept-your-linkedin-invitations
+- https://college.usatoday.com/2015/04/01/10-templates-thatll-make-people-want-to-accept-your-linkedin-invitations
 
 - https://www.themuse.com/advice/5-rules-for-asking-your-linkedin-connections-for-help
      

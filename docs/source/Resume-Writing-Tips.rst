@@ -11,17 +11,15 @@ The Basics
 
 - https://www.forbes.com/sites/ashleystahl/2016/02/01/what-to-include-on-your-resume-and-what-you-can-ditch/
    
-- http://www.businessinsider.in/15-Things-You-Should-Never-Put-On-Your-Resume/articleshow/37199926.cms?format=slideshow
+- https://www.businessinsider.in/15-Things-You-Should-Never-Put-On-Your-Resume/articleshow/37199926.cms?format=slideshow
    
 - https://blog.jobbatical.com/four-phrases-not-to-use-on-your-startup-job-application-506cfecdcf46
 
-- http://www.resume-resource.com/resume-power-verbs-synonyms/
+- https://www.resume-resource.com/resume-power-verbs-synonyms/
    
 - https://www.quora.com/How-should-I-write-about-language-skills-on-my-resume
 
 - https://blog.jobbatical.com/why-is-it-essential-to-have-a-flawless-resume-f3f0c13b0da2
-
-- http://joshgwin.com/15-ways-to-upgrade-your-linkedin-profile/
 
 
 #########################

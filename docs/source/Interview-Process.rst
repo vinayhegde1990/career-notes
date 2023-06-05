@@ -27,7 +27,7 @@ Questions as a Candidate
    
 - https://www.thebalance.com/why-do-you-want-to-work-here-2061292 
    
-- http://firstround.com/review/the-best-interview-questions-weve-ever-published/
+- https://firstround.com/review/the-best-interview-questions-weve-ever-published/
 
 - https://medium.freecodecamp.org/why-you-should-ask-questions-at-your-next-tech-company-interview-5070384dc5a0
 
@@ -35,7 +35,7 @@ Questions as a Candidate
    
 - https://resources.workable.com/tutorial/faq-recruiting-emails
 
-- http://questionsforinterviewer.com/questions-to-ask-interviewer
+- https://questionsforinterviewer.com/questions-to-ask-interviewer
 
 - https://kostasbariotis.com/interviewer-vs-interviewee
 

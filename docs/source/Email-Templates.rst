@@ -9,7 +9,7 @@ Dealing with Recruiter Outreach
 ###############################
 - https://www.thebalance.com/how-to-decline-a-job-interview-with-a-letter-sample-2061121
    
-- http://blog.staffingadvisors.com/2014/11/20/decline-recruiters-outreach-politely
+- https://www.staffingadvisors.com/blog/decline-recruiters-outreach-politely/
 
 - https://www.themuse.com/advice/5-email-templates-to-respond-to-recruiters-no-matter-where-you-are-in-your-search 
 
@@ -53,7 +53,7 @@ Rescheduling Interviews
 ###############################
 Accept OR Decline a Job Offer
 ###############################
-- http://lifehacker.com/how-to-accept-and-decline-job-offers-498466080
+- https://lifehacker.com/how-to-accept-and-decline-job-offers-498466080
 
 - https://www.thebalancecareers.com/how-to-decline-a-job-offer-2059772
 
@@ -77,15 +77,13 @@ Re-apply Post a Failed Interview
 ###############################
 Salary Negotiation
 ###############################
-- http://www.writeexpress.com/joboff03.html
+- https://www.writeexpress.com/joboff03.html
 
 - https://www.lewis-lin.com/blog/2015/5/6/31-killer-salary-negotiation-scripts
-
-- http://blogs.wsj.com/indiarealtime/2010/10/08/negotiating-a-higher-salary-takes-work
    
 - https://biginterview.com/blog/2015/10/salary-expectations.html
   
-- http://salarytutor.com/2011/09/boxed-in-how-to-bypass-the-desired-salary-field-on-online-job-applications/
+- https://salarytutor.com/2011/09/boxed-in-how-to-bypass-the-desired-salary-field-on-online-job-applications/
 
 - https://business.tutsplus.com/tutorials/how-to-negotiate-your-salary-via-email--cms-27031
 

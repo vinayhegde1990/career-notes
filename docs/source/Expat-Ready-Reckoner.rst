@@ -14,9 +14,9 @@ Global Salary & Cost of Living Data
 
 - https://www.numbeo.com/cost-of-living
 
-- http://www.jobsintech.io
+- https://www.jobsintech.io
 
-- http://www.payscale.com/rccountries.aspx
+- https://www.payscale.com/rccountries.aspx
 
 - https://www.expatistan.com
 
@@ -26,9 +26,9 @@ Global Salary & Cost of Living Data
 ############################
 Visas, Work Permits, Salary
 ############################
-- http://www.expatica.com
+- https://www.expatica.com
 
-- http://www.expat.com
+- https://www.expat.com
 
 - https://www.internations.org
 

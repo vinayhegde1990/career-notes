@@ -39,7 +39,7 @@ Jobs with relocation
 ########################################
 Portals where Companies seek candidates
 ########################################
-- http://talent.io
+- https://talent.io
 
 - https://www.honeypot.io/
 
@@ -49,4 +49,4 @@ Portals where Companies seek candidates
 ######################################
 List of Companies Without WhiteBoard
 ######################################
-- http://they.whiteboarded.me/companies-that-whiteboard.html
+- https://they.whiteboarded.me/companies-that-dont-whiteboard.html
