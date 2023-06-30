@@ -2,7 +2,7 @@
 Interview Process
 ********************
 
-*Some useful links to cover the Interview process*
+*Useful links to cover the Interview process*
 
 ##############################
 Telephonic | Skype Interview

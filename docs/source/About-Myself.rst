@@ -2,7 +2,7 @@
 Personal Identity
 ********************
 
-*Some useful links to answer - Tell me about yourself in an interview as well as certain job sites*
+*Useful links to answer - Tell me about yourself in an interview as well as certain job sites*
 
 ##########
 The Basics
@@ -30,7 +30,7 @@ How did you hear about this job
 .. code-block:: Python
    :linenos:
 
-   I’m actively job searching right now and I found your job posting on <platform-like-linkedin-stackoverflow-job-boards> while searching for <exact-role> positions. I reviewed the job description on <platform-like-linkedin-stackoverflow-job-boards> as well as your job website before applying and it seemed like a great potential fit so I wanted to apply and learn more about the opportunity to see if it’s a good match.
+   I'm actively job searching right now and I found your job posting on <platform-like-linkedin-stackoverflow-job-boards> while searching for <exact-role> positions. I reviewed the job description on <platform-like-linkedin-stackoverflow-job-boards> as well as your job website before applying and it seemed like a great potential fit so I wanted to apply and learn more about the opportunity to see if it’s a good match.
    
    
 **Why do you want to join us**

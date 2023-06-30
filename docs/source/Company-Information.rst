@@ -2,7 +2,7 @@
 Company Information
 ******************************
 
-*Some useful links to help in finding Company Information*
+*Useful links to help in finding Company Information*
 
 ##############################
 Company Information Essentials

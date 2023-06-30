@@ -2,7 +2,7 @@
 Job Listings
 ********************
 
-*Some useful job sites across the globe*
+*Useful job sites across the globe*
 
 ###################
 Global Job Search

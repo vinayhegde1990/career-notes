@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Career-Notes'
-copyright = '2020, Vinay Hegde'
+copyright = '2023 - 2024, Vinay Hegde'
 author = 'Vinay Hegde'
 
 # The short X.Y version
 version = '3'
 # The full version, including alpha/beta/rc tags
-release = '3.0.1'
+release = 'v3.0.4-20230630'
 
 
 # -- General configuration ---------------------------------------------------

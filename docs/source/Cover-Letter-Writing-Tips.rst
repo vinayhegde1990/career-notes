@@ -2,7 +2,7 @@
 CoverLetter Writing Tips
 **********************************
 
-*Some useful links to help draft effective cover letters*
+*Useful links to help draft effective cover letters*
 
 ##########
 The Basics

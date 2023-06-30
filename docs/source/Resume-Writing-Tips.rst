@@ -2,7 +2,7 @@
 Resume Writing Tips
 **********************************
 
-*Some useful links to help write effective resumes*
+*Useful links to help write effective resumes*
 
 ##########
 The Basics
@@ -47,4 +47,3 @@ Explaining Career Gaps
 Visual Resume
 ###############
 - https://geekflare.com/free-visual-resume-to-impress
-

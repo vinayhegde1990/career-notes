@@ -2,7 +2,7 @@
 Email Templates
 ******************************
 
-*Some useful links containing Email Snippets for various use cases*
+*Useful links containing Email Snippets for various use cases*
 
 ###############################
 Dealing with Recruiter Outreach

@@ -2,7 +2,7 @@
 Expatriate Data
 *************************
 
-*Some useful links to browse when looking to migrate overseas for a career*
+*Useful links to browse when looking to migrate overseas for a career*
 
 
 #######################################

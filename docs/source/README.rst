@@ -22,9 +22,9 @@ Tech Stack:
 ---------------------
 
                 - **reStructuredText (RST)** - To write .rst files for the formatting. You can start learning via `this <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_
-                - **Sphinx** - The engine generating content in **HTML**, **LaTeX**, **ePub**. A beginner's guide can be found on their `page <http://www.sphinx-doc.org/en/master/index.html>`_
+                - **Sphinx** - The engine generating content in **HTML**, **LaTeX**, **ePub**. A beginner's guide can be found on their `page <https://www.sphinx-doc.org/en/master/index.html>`_
                 - **GitHub** - For maintaining the source code in version control.
-                - **ReadTheDocs** - Hosting my documentation. Refer this excellent `document <http://docs.readthedocs.io/en/latest/getting_started.html>`_ to help you get up and running in no time.
+                - **ReadTheDocs** - Hosting my documentation. Refer this excellent `document <https://docs.readthedocs.io/en/latest/getting_started.html>`_ to help you get up and running in no time.
 
 
 

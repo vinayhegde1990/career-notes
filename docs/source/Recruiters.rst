@@ -2,7 +2,7 @@
 Recruiters
 ********************
 
-*Some useful links to help in connecting with recruiters*
+*Useful links to help in connecting with recruiters*
 
 #################################################
 Contacting Recruiters via LinkedIn
@@ -47,7 +47,7 @@ Contacting Recruiters via LinkedIn
 
    Currently I'm seeking new opportunities as a <exact-role> across <location> so I'd love an opportunity to connect with you for roles that may be a good fit.
 
-   Here are three key reasons why I’m distinctly a good fit for it:
+   Here are three key reasons why I'm distinctly a good fit for it:
    _______________________________________________
    1. 
 
