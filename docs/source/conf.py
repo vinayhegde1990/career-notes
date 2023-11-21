@@ -26,7 +26,7 @@ author = 'Vinay Hegde'
 # The short X.Y version
 version = '3'
 # The full version, including alpha/beta/rc tags
-release = 'v3.0.4-20230630'
+release = 'v3.0.5-20231121'
 
 
 # -- General configuration ---------------------------------------------------
@@ -186,9 +186,6 @@ epub_exclude_files = ['search.html']
 # -- Extension configuration -------------------------------------------------
 
 # -- Options for intersphinx extension ---------------------------------------
-
-# Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'https://docs.python.org/': None}
 
 # -- Options for todo extension ----------------------------------------------
 
