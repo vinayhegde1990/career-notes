@@ -17,3 +17,4 @@ Career Notes - Vinay Hegde
    Job-Listings
    Recruiters
    Resume-Writing-Tips
+   Technical-Career-Growth

@@ -14,6 +14,8 @@ Welcome to my notes on various topics related to a Professional Career covering 
 
 5. Tackling the Interview Process
 
+6. Up-scaling the Technical Career pyramid
+
 ... and many more.
 
 
