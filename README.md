@@ -18,7 +18,7 @@ You can read the complete documentation <ins>[here](https://career-notes.readthe
 
 ### reStructuredText (RST)
 
-- For writing `.rst` files to render the formatting. You can start learning via <ins>[this](https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html)</ins>
+- For writing `.rst` files to render the formatting. You can start learning via <ins>[this](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html)</ins>
 
 ### Sphinx
 

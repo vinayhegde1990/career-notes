@@ -26,7 +26,7 @@ author = 'Vinay Hegde'
 # The short X.Y version
 version = '3'
 # The full version, including alpha/beta/rc tags
-release = 'v3.0.6-20240526'
+release = 'v3.0.12-202401226'
 
 
 # -- General configuration ---------------------------------------------------
@@ -65,7 +65,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -81,7 +81,7 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -92,7 +92,6 @@ html_theme = 'sphinx_rtd_theme'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -108,7 +107,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Career-Notesdoc'
+htmlhelp_basename = 'Career-Notes-doc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -135,8 +134,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Career-Notes.tex', 'Career-Notes Documentation',
-     'Vinay Hegde', 'manual'),
+    (master_doc, 'Career-Notes.tex', 'Career-Notes Documentation', 'Vinay Hegde', 'manual'),
 ]
 
 
@@ -145,8 +143,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'career-notes', 'Career-Notes Documentation',
-     [author], 1)
+    (master_doc, 'career-notes', 'Career-Notes Documentation', [author], 1)
 ]
 
 
@@ -156,9 +153,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Career-Notes', 'Career-Notes Documentation',
-     author, 'Career-Notes', 'One line description of project.',
-     'Miscellaneous'),
+    (master_doc, 'Career-Notes', 'Career-Notes Documentation', author, 'Career-Notes', 'One line description of project.', 'Miscellaneous'),
 ]
 
 
