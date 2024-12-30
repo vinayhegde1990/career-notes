@@ -37,6 +37,8 @@ Engineering Management
 
 - https://techleadjournal.dev/
 
+- https://newsletter.eng-leadership.com/
+
 - https://www.amazon.in/Things-Every-Engineering-Manager-Should/dp/1492050903
 
 
@@ -46,3 +48,5 @@ Staff Engineering
 - https://staffeng.com/
 
 - https://blog.alexewerlof.com/p/beyond-staff-engineer
+
+- https://pathtostaff.substack.com/

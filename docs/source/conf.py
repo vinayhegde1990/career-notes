@@ -26,7 +26,7 @@ author = 'Vinay Hegde'
 # The short X.Y version
 version = '3'
 # The full version, including alpha/beta/rc tags
-release = 'v3.0.12-202401226'
+release = 'v3.0.12-202401230'
 
 
 # -- General configuration ---------------------------------------------------
