@@ -35,4 +35,4 @@ You can read the complete documentation <ins>[here](https://career-notes.readthe
 ## Please note
 
 - As all topics here are dynamic in nature, this will forever be a work in progress. Feedback, suggestions and queries are always appreciated!
-- For contributions, please read the guidelines on how to share your [Contributions](contributing.md) to this project.
+- For contributions, please read the guidelines on how to share your [Contributions](Contributing.md) to this project.
